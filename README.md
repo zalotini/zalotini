@@ -5,3 +5,11 @@
 )](https://www.linkedin.com/in/maria-clara-zalotini-tomaz/)
 
 ![Zalotini's GitHub stats](https://github-readme-stats.vercel.app/api?username=zalotini&show_icons=true&theme=radical)
+##
+<div style="display: inline-block"><br>
+  <img align="center" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img align="center" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img align="center" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img align="center" alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+
+</div><br>
